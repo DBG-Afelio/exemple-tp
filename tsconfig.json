@@ -10,6 +10,11 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "paths": {
+      "module1": [
+        "projects/module1"
+      ]
+    },
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
